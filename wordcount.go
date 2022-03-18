@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Anushakanagala 
-apache
-/
-beam
-Public
-Code
-Pull requests
-144
-Actions
-Projects
-Security
-Insights
-beam/sdks/go/examples/wordcount/wordcount.go /
-@pavel-avilov
-pavel-avilov Merge pull request #16618 from [BEAM-13744] [Playground] Add context …
-…
-Latest commit 8853944 on Feb 2
- History
- 8 contributors
-@youngoli@pavel-avilov@riteshghorse@herohde@lostluck@holdenk@daria-malkova@KhaninArtur
-208 lines (188 sloc)  7.93 KB
    
 // Licensed to the Apache Software Foundation (ASF) under one or more
 // contributor license agreements.  See the NOTICE file distributed with
@@ -235,15 +207,4 @@ func main() {
 		log.Fatalf("Failed to execute job: %v", err)
 	}
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
